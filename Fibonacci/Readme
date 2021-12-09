@@ -1,0 +1,4 @@
+Write a command-line program which prompts a user to enter a temperature, 
+and whether it's in degrees (C)elsius or (F)ahrenheit. 
+Convert the temperature to the opposite degrees, 
+and display the old and new temperatures to the console.
