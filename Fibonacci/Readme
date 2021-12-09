@@ -1,0 +1,4 @@
+/******************************************************************
+ Write a command-line program which prompts the user for an integer
+ value and display the Fibonacci sequence leading up to that number:
+ *****************************************************************/
